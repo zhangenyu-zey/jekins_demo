@@ -1,5 +1,4 @@
 .idea
 .pytest_cache
 report
-venv
 __pycache__
